@@ -1,0 +1,9 @@
+body {
+	background-color: #121212;
+	color: blanchedalmond;
+}
+
+a:link { color: lightskyblue; }
+a:visited { color: #6d4b8d; }
+a:hover { color: #ff4040; }
+a:active { color: #ffffff; text-decoration:none; font-weight:normal; }
